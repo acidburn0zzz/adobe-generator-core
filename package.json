@@ -17,11 +17,11 @@
     "optimist": "~0.6",
     "q": "~1.0",
     "semver": "^5.5.0",
-    "ws": "^1.1.5"
+    "ws": "^5.2.5"
   },
   "devDependencies": {
     "grunt": "^1.0.2",
-    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-jshint": "^3.2.0",
     "grunt-contrib-nodeunit": "^1.0.0",
     "grunt-jscs": "^3.0.1",
     "jscs-trailing-whitespace-in-source": "0.0.1",
